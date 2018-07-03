@@ -1,9 +1,9 @@
 @mixin font-face(
-	$font-family, 
-	$font-weight: 400, 
-	$font-type: normal, 
-	$font-stretch: normal, 
-	$font-display: swap
+  $font-family,
+  $font-weight: 400,
+  $font-type: normal,
+  $font-stretch: normal,
+  $font-display: swap
 ) {
   @font-face {
     font-family: $font-family;
