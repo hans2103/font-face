@@ -36,6 +36,8 @@ This node module font-face started to make my work easier. Instead of find & cop
 ```
 
 ## Included fonts
+- Arvo
+- Montserrat
 - Open Sans
 - Open Sans Condensed
 - PT Sans
