@@ -1,6 +1,6 @@
 {
   "name": "font-face",
-  "version": "2.3.3",
+  "version": "2.3.4",
   "description": "SASS @font-face mixin",
   "keywords": [
     "sass",
@@ -16,9 +16,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/hans2103/font-face.git"
+    "url": "git+https://github.com/hans2103/font-face.git"
   },
   "main": "index.js",
   "author": "Hans Kuijpers - hans2103",
-  "license": "MIT"
+  "license": "MIT",
+  "homepage": "https://github.com/hans2103/font-face#readme",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
 }
