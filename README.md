@@ -3,7 +3,7 @@
 This node module font-face started to make my work easier. Instead of find & copy & paste base64 encrypted fonts for each and every project I just @include them using this SCSS mixin.  
 
 ## Install
-1. `yarn add font-face`
+1. `yarn add font-face` or `npm install --save-dev font-face` 
 2. Import it into your SCSS code:
 ```scss
 @import "font-face";
